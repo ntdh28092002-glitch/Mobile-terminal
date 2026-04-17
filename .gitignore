@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+.env
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+**/ Dart/exec/*
+*.dart_tool/
+*.packages
+.pub-cache/
+
+# React Native
+*.pdb
+*.db
+*.sourcemap
+*.js.map
+
+# General Development
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.swp
+*.tmp
+*.bak
+*~
